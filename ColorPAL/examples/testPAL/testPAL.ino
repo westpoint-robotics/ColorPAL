@@ -2,7 +2,6 @@
 
 ColorPAL colors;
 int red, green, blue;
-char brightest;
 
 void setup()
 {
