@@ -17,7 +17,4 @@ void loop()
   Serial.print(red); Serial.print(" ");
   Serial.print(green); Serial.print(" ");
   Serial.println(blue);
-
-  brightest = colors.detectPAL(red, green, blue);       // Determines which of the three color values is the largest/brightest
-  Serial.println(brightest);
 }
