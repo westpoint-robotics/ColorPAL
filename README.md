@@ -19,4 +19,4 @@ Header file to communicate with the sensor through the Arduino's software serial
         |   readmemdl.rtf
         
 ```
-5. Restart Arduino IDE to check if the newly added 'ColorPAL' library has been detected. If it has been successfully imported, you must be able to see 'testPAL' as an example sketches under `Files -> Examples -> ColorPAL`
+5. Restart Arduino IDE and check if the newly added 'ColorPAL' library has been detected. If it has been successfully imported, you must be able to see 'testPAL' as an example sketche under `Files -> Examples -> ColorPAL`
