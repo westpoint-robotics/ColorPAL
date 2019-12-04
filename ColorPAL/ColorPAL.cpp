@@ -91,8 +91,3 @@ void ColorPAL::resetPAL()
   pinMode(pin, INPUT);
   delay(200);
 }
-
-void ColorPAL::detachPAL()
-{
-  serin.end();
-}
