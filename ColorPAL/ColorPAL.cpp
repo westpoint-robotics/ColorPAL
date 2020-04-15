@@ -1,11 +1,11 @@
 /*
 ColorPAL
-This is a library to provide a serail communication interface with the ColorPAL sensor.
+This is a library to provide a serial communication interface with the ColorPAL sensor.
 
 The Circuit:
-	+5v and gound from Arduino to sensor
+	+5v and Gound from Arduino to sensor
 	Sensor Signal pin connected to any digital pin defined by the user.
-	
+
 By Pratheek Manjunath. November 19, 2019.
 */
 #include "ColorPAL.h"
