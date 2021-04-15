@@ -4,8 +4,9 @@ Header file to communicate with the sensor through the Arduino's software serial
 ### Instructions to install the library:
 1. Cilck on the green **`Code`** button present on the top right corner of this page. On the drop-down menu, click **`Download ZIP`**.
 2. Choose a location on your computer to download this file. After download completes, extract the files by right-clicking on the zipped folder and clicking 'Extract All'.
-3. Copy and paste the extracted folder `ColorPAL` to the location where your Arduino IDE stores all libraries. The default location is `C:\Users\First.Last\Documents\Arduino\libraries`.
-4. The file structure is described below. Verify the contents of the `ColorPAL` folder after you have copied it to the Arduino libraries folder. **Do not modify these files or alter the file structure!**
+3. The downloaded folder name will have a 'master' suffix to it. Rename the folder after unzipping from 'ColorPAL-master' to 'ColorPAL'.
+4. Copy and paste the extracted folder `ColorPAL` to the location where your Arduino IDE stores all libraries. The default location is `C:\Users\First.Last\Documents\Arduino\libraries`.
+5. The file structure is described below. Verify the contents of the `ColorPAL` folder after you have copied it to the Arduino libraries folder. **Do not modify these files or alter the file structure!**
 ```
    ColorPAL
     │   keywords.txt
